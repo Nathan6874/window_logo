@@ -1,4 +1,6 @@
-from turtle import *
+from turtle import*
+
+#dessiner le logo d'ouverture de windows
 
 speed(2)
 
